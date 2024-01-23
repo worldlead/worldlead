@@ -1,6 +1,8 @@
 # Welcome
 
-I am a full stack developer
+I am a tech-savvy and seasoned full stack developer with over 8 years of experience in business and industry.
+My dedication to staying current with industry trends and technologies enables me to deliver cutting-edge solutions that meet the demands of today's rapidly evolving digital landscape.
+I am always excited about the opportunity to leverage my sills and experience as a Full Stack Web Developer in a dynamic and forward-thinking organization.
 
 
 ## Get in touch:
