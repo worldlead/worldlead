@@ -3,7 +3,7 @@
 I am a full stack developer
 
 
-## Contacting to me:
+## Get in touch:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/worldlead)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:procosep@gmail.com)
 
