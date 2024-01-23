@@ -1,16 +1,11 @@
 # Welcome
 
-I am a software engineer with up to ten years of professional experience in developing Web/Blockchain applications. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance.
-
-I'm good at delivering blockchain & fintech applications from scratch.
-The whole web application including smart contracts, back-end, and front-end will be delivered in the best quality built with the latest technologies.
-
-I love accepting challenges and am equipped with the infrastructure to facilitate out-of-the-box services to my clients. Whether you are starting with a rough concept or already have extensive specifications and wireframes, I will work with you to turn your idea into a reality.
+I am a full stack developer
 
 
 ## Contacting to me:
-[<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/ProspDev)
-[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:prosper.shine0714@gmail.com)
+[<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/worldlead)
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:procosep@gmail.com)
 
 ## Working Platform
 [<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />](#)
