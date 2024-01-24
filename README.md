@@ -1,6 +1,10 @@
 # Welcome
 
-As a seasoned and tech-savvy full stack developer with over 8 years of hands-on experience in the business and industry, I am deeply committed to staying at the forefront of evolving trends and technologies. My passion for delivering cutting-edge solutions aligns seamlessly with the dynamic nature of today's digital landscape. Eager to contribute my skills and expertise to a forward-thinking organization, I thrive on the opportunity to leverage my proficiency as a Full Stack Web Developer. Let's collaborate to push boundaries and create innovative solutions that meet the challenges of the ever-changing tech ecosystem.
+As a seasoned and tech-savvy full stack developer with over 8 years of hands-on experience in the business and industry, I am deeply committed to staying at the forefront of evolving trends and technologies. 
+
+My passion for delivering cutting-edge solutions aligns seamlessly with the dynamic nature of today's digital landscape. 
+
+Eager to contribute my skills and expertise to a forward-thinking organization, I thrive on the opportunity to leverage my proficiency as a Full Stack Web Developer. 
 
 ## Get in touch:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/worldlead)
