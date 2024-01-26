@@ -66,11 +66,6 @@ My passion for delivering cutting-edge solutions aligns seamlessly with the dyna
 [<a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/3e5344a2965e786497ceb575ad67d2c64d412bb9683da05791edf424a0e40734/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a>]
 
 
-### IDEs
-[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />](#)
-
 ### Teamwork Environments
 [<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />](#)
@@ -82,10 +77,5 @@ My passion for delivering cutting-edge solutions aligns seamlessly with the dyna
 [<img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />](#)
 
-### Clouds
-[<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Render-00ab56?style=for-the-badge&logo=render&logoColor=white" />](#)
 
 
