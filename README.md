@@ -10,10 +10,6 @@ Eager to contribute my skills and expertise to a forward-thinking organization, 
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/worldlead)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:procosep@gmail.com)
 
-## Working Platform
-[<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />](#)
-  
 ## My Main Skills
 ### Developing Languages
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](#)
