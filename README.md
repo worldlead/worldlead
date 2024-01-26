@@ -6,6 +6,19 @@ My passion for delivering cutting-edge solutions aligns seamlessly with the dyna
 
 Eager to contribute my skills and expertise to a forward-thinking organization, I thrive on the opportunity to leverage my proficiency as a Full Stack Web Developer. 
 
+<p dir="auto"><strong>Talking about Personal Stuffs:</strong></p>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
+<ul dir="auto">
+<li>👨🏽‍💻 I’m currently working on <a href="https://github.com/onimur/handle-path-oz">Handle Path Oz</a>;</li>
+<li>🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI);</li>
+<li>👯 I’m looking to collaborate on <a href="https://github.com/onimur/handle-path-oz">Handle Path Oz</a> 🤝;</li>
+<li>🤔 I’m looking for help with Design Pattern 😭;</li>
+<li>💬 Ask me about anything, I am happy to help;</li>
+<li>⚡️ Fun-Fact: I have a degree in civil engineering;</li>
+<li>📫 How to reach me: <a href="mailto:murillo_comino@hotmail.com">murillo_comino@hotmail.com</a>;</li>
+</ul>
+
 ## Get in touch:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/worldlead)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:procosep@gmail.com)
