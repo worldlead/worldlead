@@ -1,22 +1,19 @@
 # Welcome
 
 As a seasoned and tech-savvy full stack developer with over 8 years of hands-on experience in the business and industry, I am deeply committed to staying at the forefront of evolving trends and technologies. 
-
 My passion for delivering cutting-edge solutions aligns seamlessly with the dynamic nature of today's digital landscape. 
-
-Eager to contribute my skills and expertise to a forward-thinking organization, I thrive on the opportunity to leverage my proficiency as a Full Stack Web Developer. 
 
 <p dir="auto"><strong>Talking about Personal Stuffs:</strong></p>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
 <ul dir="auto">
-<li>👨🏽‍💻 I’m currently working on <a href="https://github.com/onimur/handle-path-oz">Handle Path Oz</a>;</li>
-<li>🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI);</li>
-<li>👯 I’m looking to collaborate on <a href="https://github.com/onimur/handle-path-oz">Handle Path Oz</a> 🤝;</li>
+<li>👨🏽‍💻 I’m currently working on Patient Consultation System;</li>
+<li>🌱 I’m currently learning Data Science;</li>
+<li>👯 I’m looking to collaborate with a talent 🤝;</li>
 <li>🤔 I’m looking for help with Design Pattern 😭;</li>
-<li>💬 Ask me about anything, I am happy to help;</li>
-<li>⚡️ Fun-Fact: I have a degree in civil engineering;</li>
-<li>📫 How to reach me: <a href="mailto:murillo_comino@hotmail.com">murillo_comino@hotmail.com</a>;</li>
+<li>💬 Ask me about anything, I am happy to help you;</li>
+<li>⚡️ Fun-Fact: I like ping-pong;</li>
+<li>📫 How to reach me: <a href="mailto:procosep@gmail.com">procosep@gmail.com</a>;</li>
 </ul>
 
 ## Get in touch:
@@ -27,12 +24,10 @@ Eager to contribute my skills and expertise to a forward-thinking organization, 
 ### Developing Languages
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](#)
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/React-593D88?style=for-the-badge&logo=react&logoColor=blue" />](#)
-[<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />](#)
+[<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Socket.io-20232A?&style=for-the-badge&logo=Socket.io&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](#)
@@ -50,6 +45,8 @@ Eager to contribute my skills and expertise to a forward-thinking organization, 
 [<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#)
 [<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#)
+[<img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](#)
