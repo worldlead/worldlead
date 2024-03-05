@@ -8,7 +8,7 @@ My passion for delivering cutting-edge solutions aligns seamlessly with the dyna
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>👨🏽‍💻 I’m currently working on Patient Consultation System;</li>
-<li>🌱 I’m currently learning Data Science;</li>
+<li>🌱 I’m currently learning OpenAI API;</li>
 <li>👯 I’m looking to collaborate with a talent 🤝;</li>
 <li>🤔 I’m looking for help with Design Pattern 😭;</li>
 <li>💬 Ask me about anything, I am happy to help you;</li>
